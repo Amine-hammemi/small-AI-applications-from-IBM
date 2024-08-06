@@ -1,0 +1,2 @@
+input_image,output,flag,username,timestamp
+"{""path"":""flagged/input_image/c13d17ffd44d6ad60491/forAi.jpg"",""url"":""https://aminehammemi-7860.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/file=/tmp/gradio/6d1fba2b668e1667768582eb3ab51f35d1208b85/forAi.jpg"",""size"":5898,""orig_name"":""forAi.jpg"",""mime_type"":"""",""is_stream"":false,""meta"":{""_type"":""gradio.FileData""}}",the image of a bird is taken from the water,,,2024-08-06 04:05:08.376391
